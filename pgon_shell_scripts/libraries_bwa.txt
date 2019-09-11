@@ -1,0 +1,1 @@
+lib1 bwa /home/pt40963/scratch/phy_genomes/pgona/bait_match_bait_match_bait_match_bait_match_R1_prinseq_good_WYdG.fastq /home/pt40963/scratch/phy_genomes/pgona/bait_match_bait_match_bait_match_bait_match_R2_prinseq_good_w_vN.fastq 500 0.35 FR
