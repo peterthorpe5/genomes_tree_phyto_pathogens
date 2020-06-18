@@ -1,0 +1,2 @@
+cd /storage/home/users/pjt6/phy/orthofinder
+python /storage/home/users/pjt6/misc_python/BLAST_output_parsing/Blast_RBH_two_fasta_file_evalue.py  --threads 2  -o ../GCA_000509485.1_Phyt_para_CJ05E6_V1_cds_from_genomi.fa_GCF_000142945.1_ASM14294v1_cds_from_genomi.fa GCA_000509485.1_Phyt_para_CJ05E6_V1_cds_from_genomi.fa GCF_000142945.1_ASM14294v1_cds_from_genomi.fa
