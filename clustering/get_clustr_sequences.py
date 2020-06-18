@@ -144,241 +144,241 @@ effector_set = set("""
 
 """.split())
 
-busco_set = set("""PHYALNI_004915-T1
-PHYALNI_004270-T1
-PHYALNI_004311-T1
-PHYALNI_002797-T1
-PHYALNI_000284-T1
-PHYALNI_007299-T1
-PHYALNI_010297-T1
-PHYALNI_008090-T1
+busco_set = set("""PHYBOEH_004915-T1
+PHYBOEH_004270-T1
+PHYBOEH_004311-T1
+PHYBOEH_002797-T1
+PHYBOEH_000284-T1
+PHYBOEH_007299-T1
+PHYBOEH_010297-T1
+PHYBOEH_008090-T1
 
-PHYALNI_002599-T1
-PHYALNI_003395-T1
-PHYALNI_006900-T1
-PHYALNI_006695-T1
-PHYALNI_000643-T1
-PHYALNI_009124-T1
-PHYALNI_006809-T1
-
-
-PHYALNI_010641-T1
-PHYALNI_000190-T1
-PHYALNI_003795-T1
+PHYBOEH_002599-T1
+PHYBOEH_003395-T1
+PHYBOEH_006900-T1
+PHYBOEH_006695-T1
+PHYBOEH_000643-T1
+PHYBOEH_009124-T1
+PHYBOEH_006809-T1
 
 
-PHYALNI_001519-T1
-PHYALNI_001188-T1
-PHYALNI_005117-T1
-PHYALNI_007679-T1
-PHYALNI_004567-T1
-PHYALNI_010932-T1
-PHYALNI_000466-T1
-PHYALNI_000196-T1
-PHYALNI_011828-T1
-PHYALNI_005161-T1
-PHYALNI_006429-T1
-PHYALNI_002402-T1
-PHYALNI_010271-T1
-PHYALNI_007102-T1
-PHYALNI_008543-T1
-PHYALNI_007926-T1
-PHYALNI_010842-T1
-PHYALNI_005464-T1
-PHYALNI_001802-T1
-PHYALNI_005185-T1
-PHYALNI_011826-T1
-PHYALNI_011564-T1
-PHYALNI_009128-T1
-PHYALNI_006650-T1
-PHYALNI_006349-T1
-
-PHYALNI_008422-T1
-PHYALNI_011154-T1
-PHYALNI_005598-T1
-
-PHYALNI_000603-T1
-PHYALNI_005106-T1
-PHYALNI_000277-T1
-PHYALNI_003103-T1
-PHYALNI_007278-T1
-PHYALNI_004029-T1
-PHYALNI_011970-T1
-PHYALNI_011674-T1
-PHYALNI_009050-T1
-PHYALNI_001338-T1
-PHYALNI_008668-T1
-PHYALNI_003772-T1
-PHYALNI_011194-T1
-PHYALNI_001035-T1
-PHYALNI_011184-T1
-PHYALNI_010509-T1
-PHYALNI_002031-T1
-PHYALNI_009776-T1
-
-PHYALNI_009330-T1
-
-PHYALNI_004300-T1
-PHYALNI_007627-T1
-PHYALNI_008454-T1
-PHYALNI_010346-T1
-PHYALNI_006897-T1
-PHYALNI_004574-T1
-PHYALNI_002092-T1
-PHYALNI_001784-T1
-PHYALNI_004090-T1
-PHYALNI_004142-T1
-
-PHYALNI_004226-T1
-PHYALNI_004043-T1
-PHYALNI_007471-T1
-PHYALNI_003085-T1
-PHYALNI_007303-T1
-PHYALNI_001990-T1
-PHYALNI_011546-T1
-
-PHYALNI_000863-T1
-PHYALNI_011515-T1
-
-PHYALNI_006049-T1
-PHYALNI_008955-T1
-PHYALNI_011280-T1
-PHYALNI_008727-T1
-PHYALNI_002410-T1
-PHYALNI_001011-T1
-
-PHYALNI_002386-T1
-
-PHYALNI_003571-T1
-
-PHYALNI_004522-T1
-PHYALNI_009796-T1
-PHYALNI_009406-T1
-PHYALNI_007062-T1
-PHYALNI_005038-T1
-
-PHYALNI_009103-T1
-PHYALNI_004005-T1
-
-PHYALNI_005297-T1
-PHYALNI_011204-T1
-PHYALNI_006677-T1
-PHYALNI_009136-T1
-PHYALNI_008833-T1
-PHYALNI_007628-T1
-PHYALNI_009023-T1
-PHYALNI_002162-T1
-
-PHYALNI_002282-T1
-PHYALNI_010062-T1
-PHYALNI_005395-T1
-PHYALNI_003986-T1
-PHYALNI_000182-T1
-PHYALNI_011557-T1
-PHYALNI_011519-T1
-PHYALNI_009409-T1
-PHYALNI_007472-T1
-PHYALNI_000009-T1
-PHYALNI_002933-T1
-PHYALNI_001952-T1
-PHYALNI_010945-T1
-
-PHYALNI_010358-T1
-PHYALNI_009922-T1
-
-PHYALNI_010108-T1
-
-PHYALNI_005451-T1
-
-PHYALNI_007314-T1
-PHYALNI_004453-T1
-PHYALNI_001606-T1
-PHYALNI_004317-T1
-PHYALNI_009904-T1
-PHYALNI_007968-T1
-
-PHYALNI_001882-T1
-PHYALNI_009204-T1
-PHYALNI_005358-T1
-PHYALNI_006767-T1
-
-PHYALNI_004327-T1
-PHYALNI_005284-T1
-PHYALNI_009941-T1
-PHYALNI_011904-T1
-PHYALNI_010255-T1
-PHYALNI_011684-T1
-PHYALNI_006680-T1
-PHYALNI_000663-T1
-PHYALNI_004387-T1
-PHYALNI_006964-T1
-
-PHYALNI_000349-T1
-PHYALNI_011949-T1
-PHYALNI_009376-T1
-PHYALNI_003016-T1
-PHYALNI_005022-T1
-PHYALNI_008541-T1
-PHYALNI_009032-T1
-PHYALNI_005156-T1
-PHYALNI_000664-T1
-PHYALNI_004969-T1
-
-PHYALNI_002676-T1
-PHYALNI_008886-T1
-PHYALNI_007449-T1
-PHYALNI_005039-T1
-PHYALNI_009421-T1
-PHYALNI_009057-T1
+PHYBOEH_010641-T1
+PHYBOEH_000190-T1
+PHYBOEH_003795-T1
 
 
-PHYALNI_005734-T1
-PHYALNI_010247-T1
-PHYALNI_006347-T1
-PHYALNI_005971-T1
-PHYALNI_000790-T1
-PHYALNI_005568-T1
-PHYALNI_005953-T1
-PHYALNI_005881-T1
-PHYALNI_002501-T1
-PHYALNI_006027-T1
-PHYALNI_011618-T1
-PHYALNI_006988-T1
-PHYALNI_007866-T1
-PHYALNI_010918-T1
-PHYALNI_009168-T1
-PHYALNI_003961-T1
-PHYALNI_007554-T1
-PHYALNI_010004-T1
-PHYALNI_005460-T1
-PHYALNI_005889-T1
-PHYALNI_007236-T1
-PHYALNI_005143-T1
-PHYALNI_010787-T1
-PHYALNI_001180-T1
-PHYALNI_003378-T1
+PHYBOEH_001519-T1
+PHYBOEH_001188-T1
+PHYBOEH_005117-T1
+PHYBOEH_007679-T1
+PHYBOEH_004567-T1
+PHYBOEH_010932-T1
+PHYBOEH_000466-T1
+PHYBOEH_000196-T1
+PHYBOEH_011828-T1
+PHYBOEH_005161-T1
+PHYBOEH_006429-T1
+PHYBOEH_002402-T1
+PHYBOEH_010271-T1
+PHYBOEH_007102-T1
+PHYBOEH_008543-T1
+PHYBOEH_007926-T1
+PHYBOEH_010842-T1
+PHYBOEH_005464-T1
+PHYBOEH_001802-T1
+PHYBOEH_005185-T1
+PHYBOEH_011826-T1
+PHYBOEH_011564-T1
+PHYBOEH_009128-T1
+PHYBOEH_006650-T1
+PHYBOEH_006349-T1
 
-PHYALNI_011695-T1
-PHYALNI_007442-T1
-PHYALNI_010317-T1
-PHYALNI_003067-T1
-PHYALNI_001908-T1
-PHYALNI_011616-T1
-PHYALNI_003985-T1
-PHYALNI_009149-T1
-PHYALNI_003703-T1
-PHYALNI_000273-T1
-PHYALNI_001671-T1
-PHYALNI_008715-T1
-PHYALNI_009098-T1
-PHYALNI_007867-T1
-PHYALNI_004323-T1
-PHYALNI_010352-T1
-PHYALNI_005368-T1
-PHYALNI_005937-T1
-PHYALNI_004766-T1
-PHYALNI_004723-T1
-PHYALNI_005214-T1
+PHYBOEH_008422-T1
+PHYBOEH_011154-T1
+PHYBOEH_005598-T1
+
+PHYBOEH_000603-T1
+PHYBOEH_005106-T1
+PHYBOEH_000277-T1
+PHYBOEH_003103-T1
+PHYBOEH_007278-T1
+PHYBOEH_004029-T1
+PHYBOEH_011970-T1
+PHYBOEH_011674-T1
+PHYBOEH_009050-T1
+PHYBOEH_001338-T1
+PHYBOEH_008668-T1
+PHYBOEH_003772-T1
+PHYBOEH_011194-T1
+PHYBOEH_001035-T1
+PHYBOEH_011184-T1
+PHYBOEH_010509-T1
+PHYBOEH_002031-T1
+PHYBOEH_009776-T1
+
+PHYBOEH_009330-T1
+
+PHYBOEH_004300-T1
+PHYBOEH_007627-T1
+PHYBOEH_008454-T1
+PHYBOEH_010346-T1
+PHYBOEH_006897-T1
+PHYBOEH_004574-T1
+PHYBOEH_002092-T1
+PHYBOEH_001784-T1
+PHYBOEH_004090-T1
+PHYBOEH_004142-T1
+
+PHYBOEH_004226-T1
+PHYBOEH_004043-T1
+PHYBOEH_007471-T1
+PHYBOEH_003085-T1
+PHYBOEH_007303-T1
+PHYBOEH_001990-T1
+PHYBOEH_011546-T1
+
+PHYBOEH_000863-T1
+PHYBOEH_011515-T1
+
+PHYBOEH_006049-T1
+PHYBOEH_008955-T1
+PHYBOEH_011280-T1
+PHYBOEH_008727-T1
+PHYBOEH_002410-T1
+PHYBOEH_001011-T1
+
+PHYBOEH_002386-T1
+
+PHYBOEH_003571-T1
+
+PHYBOEH_004522-T1
+PHYBOEH_009796-T1
+PHYBOEH_009406-T1
+PHYBOEH_007062-T1
+PHYBOEH_005038-T1
+
+PHYBOEH_009103-T1
+PHYBOEH_004005-T1
+
+PHYBOEH_005297-T1
+PHYBOEH_011204-T1
+PHYBOEH_006677-T1
+PHYBOEH_009136-T1
+PHYBOEH_008833-T1
+PHYBOEH_007628-T1
+PHYBOEH_009023-T1
+PHYBOEH_002162-T1
+
+PHYBOEH_002282-T1
+PHYBOEH_010062-T1
+PHYBOEH_005395-T1
+PHYBOEH_003986-T1
+PHYBOEH_000182-T1
+PHYBOEH_011557-T1
+PHYBOEH_011519-T1
+PHYBOEH_009409-T1
+PHYBOEH_007472-T1
+PHYBOEH_000009-T1
+PHYBOEH_002933-T1
+PHYBOEH_001952-T1
+PHYBOEH_010945-T1
+
+PHYBOEH_010358-T1
+PHYBOEH_009922-T1
+
+PHYBOEH_010108-T1
+
+PHYBOEH_005451-T1
+
+PHYBOEH_007314-T1
+PHYBOEH_004453-T1
+PHYBOEH_001606-T1
+PHYBOEH_004317-T1
+PHYBOEH_009904-T1
+PHYBOEH_007968-T1
+
+PHYBOEH_001882-T1
+PHYBOEH_009204-T1
+PHYBOEH_005358-T1
+PHYBOEH_006767-T1
+
+PHYBOEH_004327-T1
+PHYBOEH_005284-T1
+PHYBOEH_009941-T1
+PHYBOEH_011904-T1
+PHYBOEH_010255-T1
+PHYBOEH_011684-T1
+PHYBOEH_006680-T1
+PHYBOEH_000663-T1
+PHYBOEH_004387-T1
+PHYBOEH_006964-T1
+
+PHYBOEH_000349-T1
+PHYBOEH_011949-T1
+PHYBOEH_009376-T1
+PHYBOEH_003016-T1
+PHYBOEH_005022-T1
+PHYBOEH_008541-T1
+PHYBOEH_009032-T1
+PHYBOEH_005156-T1
+PHYBOEH_000664-T1
+PHYBOEH_004969-T1
+
+PHYBOEH_002676-T1
+PHYBOEH_008886-T1
+PHYBOEH_007449-T1
+PHYBOEH_005039-T1
+PHYBOEH_009421-T1
+PHYBOEH_009057-T1
+
+
+PHYBOEH_005734-T1
+PHYBOEH_010247-T1
+PHYBOEH_006347-T1
+PHYBOEH_005971-T1
+PHYBOEH_000790-T1
+PHYBOEH_005568-T1
+PHYBOEH_005953-T1
+PHYBOEH_005881-T1
+PHYBOEH_002501-T1
+PHYBOEH_006027-T1
+PHYBOEH_011618-T1
+PHYBOEH_006988-T1
+PHYBOEH_007866-T1
+PHYBOEH_010918-T1
+PHYBOEH_009168-T1
+PHYBOEH_003961-T1
+PHYBOEH_007554-T1
+PHYBOEH_010004-T1
+PHYBOEH_005460-T1
+PHYBOEH_005889-T1
+PHYBOEH_007236-T1
+PHYBOEH_005143-T1
+PHYBOEH_010787-T1
+PHYBOEH_001180-T1
+PHYBOEH_003378-T1
+
+PHYBOEH_011695-T1
+PHYBOEH_007442-T1
+PHYBOEH_010317-T1
+PHYBOEH_003067-T1
+PHYBOEH_001908-T1
+PHYBOEH_011616-T1
+PHYBOEH_003985-T1
+PHYBOEH_009149-T1
+PHYBOEH_003703-T1
+PHYBOEH_000273-T1
+PHYBOEH_001671-T1
+PHYBOEH_008715-T1
+PHYBOEH_009098-T1
+PHYBOEH_007867-T1
+PHYBOEH_004323-T1
+PHYBOEH_010352-T1
+PHYBOEH_005368-T1
+PHYBOEH_005937-T1
+PHYBOEH_004766-T1
+PHYBOEH_004723-T1
+PHYBOEH_005214-T1
 PHYGONAP_016919-T1
 PHYGONAP_018055-T1
 PHYGONAP_014361-T1
@@ -810,935 +810,935 @@ sub_set =  set([])
 gros_effector =  set([])
 
    
-effector_set = set("""PHYALNI_000016-T1   
-                   PHYALNI_000088-T1
-                   PHYALNI_000248-T1
-                   PHYALNI_000261-T1
-                   PHYALNI_000301-T1
-                   PHYALNI_000338-T1
-                   PHYALNI_000339-T1
-                   PHYALNI_000347-T1
-                   PHYALNI_000362-T1
-                   PHYALNI_000363-T1
-                   PHYALNI_000366-T1
-                   PHYALNI_000372-T1
-                   PHYALNI_000374-T1
-                   PHYALNI_000378-T1
-                   PHYALNI_000389-T1
-                   PHYALNI_000449-T1
-                   PHYALNI_000450-T1
-                   PHYALNI_000522-T1
-                   PHYALNI_000564-T1
-                   PHYALNI_000788-T1
-                   PHYALNI_000803-T1
-                   PHYALNI_000809-T1
-                   PHYALNI_000834-T1
-                   PHYALNI_000835-T1
-                   PHYALNI_000836-T1
-                   PHYALNI_000895-T1
-                   PHYALNI_000897-T1
-                   PHYALNI_000956-T1
-                   PHYALNI_000977-T1
-                   PHYALNI_000985-T1
-                   PHYALNI_001150-T1
-                   PHYALNI_001154-T1
-                   PHYALNI_001365-T1
-                   PHYALNI_001430-T1
-                   PHYALNI_001451-T1
-                   PHYALNI_001463-T1
-                   PHYALNI_001553-T1
-                   PHYALNI_001554-T1
-                   PHYALNI_001562-T1
-                   PHYALNI_001660-T1
-                   PHYALNI_001662-T1
-                   PHYALNI_001704-T1
-                   PHYALNI_001817-T1
-                   PHYALNI_001818-T1
-                   PHYALNI_001831-T1
-                   PHYALNI_001847-T1
-                   PHYALNI_002185-T1
-                   PHYALNI_002248-T1
-                   PHYALNI_002344-T1
-                   PHYALNI_002353-T1
-                   PHYALNI_002355-T1
-                   PHYALNI_002438-T1
-                   PHYALNI_002449-T1
-                   PHYALNI_002452-T1
-                   PHYALNI_002453-T1
-                   PHYALNI_002475-T1
-                   PHYALNI_002558-T1
-                   PHYALNI_002585-T1
-                   PHYALNI_002810-T1
-                   PHYALNI_002819-T1
-                   PHYALNI_002830-T1
-                   PHYALNI_002843-T1
-                   PHYALNI_002898-T1
-                   PHYALNI_003006-T1
-                   PHYALNI_003052-T1
-                   PHYALNI_003148-T1
-                   PHYALNI_003160-T1
-                   PHYALNI_003187-T1
-                   PHYALNI_003287-T1
-                   PHYALNI_003327-T1
-                   PHYALNI_003377-T1
-                   PHYALNI_003396-T1
-                   PHYALNI_003398-T1
-                   PHYALNI_003403-T1
-                   PHYALNI_003426-T1
-                   PHYALNI_003427-T1
-                   PHYALNI_003442-T1
-                   PHYALNI_003502-T1
-                   PHYALNI_003514-T1
-                   PHYALNI_003537-T1
-                   PHYALNI_003538-T1
-                   PHYALNI_003540-T1
-                   PHYALNI_003716-T1
-                   PHYALNI_003738-T1
-                   PHYALNI_003765-T1
-                   PHYALNI_003881-T1
-                   PHYALNI_003894-T1
-                   PHYALNI_003926-T1
-                   PHYALNI_004001-T1
-                   PHYALNI_004066-T1
-                   PHYALNI_004067-T1
-                   PHYALNI_004099-T1
-                   PHYALNI_004178-T1
-                   PHYALNI_004179-T1
-                   PHYALNI_004181-T1
-                   PHYALNI_004182-T1
-                   PHYALNI_004183-T1
-                   PHYALNI_004386-T1
-                   PHYALNI_004502-T1
-                   PHYALNI_004507-T1
-                   PHYALNI_004584-T1
-                   PHYALNI_004587-T1
-                   PHYALNI_004593-T1
-                   PHYALNI_004598-T1
-                   PHYALNI_004612-T1
-                   PHYALNI_004781-T1
-                   PHYALNI_004828-T1
-                   PHYALNI_004938-T1
-                   PHYALNI_004995-T1
-                   PHYALNI_005027-T1
-                   PHYALNI_005062-T1
-                   PHYALNI_005212-T1
-                   PHYALNI_005229-T1
-                   PHYALNI_005411-T1
-                   PHYALNI_005412-T1
-                   PHYALNI_005413-T1
-                   PHYALNI_005432-T1
-                   PHYALNI_005435-T1
-                   PHYALNI_005436-T1
-                   PHYALNI_005465-T1
-                   PHYALNI_005554-T1
-                   PHYALNI_005556-T1
-                   PHYALNI_005557-T1
-                   PHYALNI_005558-T1
-                   PHYALNI_005640-T1
-                   PHYALNI_005641-T1
-                   PHYALNI_005642-T1
-                   PHYALNI_005648-T1
-                   PHYALNI_005653-T1
-                   PHYALNI_005654-T1
-                   PHYALNI_005843-T1
-                   PHYALNI_005861-T1
-                   PHYALNI_005862-T1
-                   PHYALNI_005864-T1
-                   PHYALNI_005938-T1
-                   PHYALNI_005940-T1
-                   PHYALNI_006093-T1
-                   PHYALNI_006098-T1
-                   PHYALNI_006100-T1
-                   PHYALNI_006111-T1
-                   PHYALNI_006116-T1
-                   PHYALNI_006117-T1
-                   PHYALNI_006163-T1
-                   PHYALNI_006174-T1
-                   PHYALNI_006189-T1
-                   PHYALNI_006272-T1
-                   PHYALNI_006273-T1
-                   PHYALNI_006284-T1
-                   PHYALNI_006338-T1
-                   PHYALNI_006351-T1
-                   PHYALNI_006353-T1
-                   PHYALNI_006401-T1
-                   PHYALNI_006448-T1
-                   PHYALNI_006469-T1
-                   PHYALNI_006479-T1
-                   PHYALNI_006576-T1
-                   PHYALNI_006577-T1
-                   PHYALNI_006624-T1
-                   PHYALNI_006625-T1
-                   PHYALNI_006763-T1
-                   PHYALNI_006786-T1
-                   PHYALNI_006793-T1
-                   PHYALNI_006810-T1
-                   PHYALNI_006880-T1
-                   PHYALNI_006881-T1
-                   PHYALNI_006883-T1
-                   PHYALNI_006904-T1
-                   PHYALNI_006919-T1
-                   PHYALNI_006920-T1
-                   PHYALNI_007038-T1
-                   PHYALNI_007045-T1
-                   PHYALNI_007386-T1
-                   PHYALNI_007559-T1
-                   PHYALNI_007618-T1
-                   PHYALNI_007668-T1
-                   PHYALNI_007669-T1
-                   PHYALNI_007677-T1
-                   PHYALNI_007686-T1
-                   PHYALNI_007762-T1
-                   PHYALNI_007789-T1
-                   PHYALNI_007790-T1
-                   PHYALNI_007791-T1
-                   PHYALNI_007812-T1
-                   PHYALNI_007995-T1
-                   PHYALNI_008007-T1
-                   PHYALNI_008010-T1
-                   PHYALNI_008014-T1
-                   PHYALNI_008041-T1
-                   PHYALNI_008048-T1
-                   PHYALNI_008051-T1
-                   PHYALNI_008179-T1
-                   PHYALNI_008180-T1
-                   PHYALNI_008255-T1
-                   PHYALNI_008268-T1
-                   PHYALNI_008309-T1
-                   PHYALNI_008348-T1
-                   PHYALNI_008371-T1
-                   PHYALNI_008438-T1
-                   PHYALNI_008603-T1
-                   PHYALNI_008604-T1
-                   PHYALNI_008614-T1
-                   PHYALNI_008638-T1
-                   PHYALNI_008691-T1
-                   PHYALNI_008696-T1
-                   PHYALNI_008698-T1
-                   PHYALNI_008761-T1
-                   PHYALNI_008772-T1
-                   PHYALNI_008781-T1
-                   PHYALNI_008782-T1
-                   PHYALNI_008793-T1
-                   PHYALNI_008795-T1
-                   PHYALNI_008811-T1
-                   PHYALNI_008830-T1
-                   PHYALNI_008855-T1
-                   PHYALNI_008869-T1
-                   PHYALNI_008876-T1
-                   PHYALNI_008877-T1
-                   PHYALNI_008912-T1
-                   PHYALNI_008915-T1
-                   PHYALNI_008989-T1
-                   PHYALNI_008990-T1
-                   PHYALNI_008996-T1
-                   PHYALNI_009088-T1
-                   PHYALNI_009172-T1
-                   PHYALNI_009173-T1
-                   PHYALNI_009187-T1
-                   PHYALNI_009188-T1
-                   PHYALNI_009190-T1
-                   PHYALNI_009191-T1
-                   PHYALNI_009192-T1
-                   PHYALNI_009248-T1
-                   PHYALNI_009249-T1
-                   PHYALNI_009318-T1
-                   PHYALNI_009338-T1
-                   PHYALNI_009358-T1
-                   PHYALNI_009401-T1
-                   PHYALNI_009404-T1
-                   PHYALNI_009405-T1
-                   PHYALNI_009413-T1
-                   PHYALNI_009441-T1
-                   PHYALNI_009560-T1
-                   PHYALNI_009584-T1
-                   PHYALNI_009590-T1
-                   PHYALNI_009604-T1
-                   PHYALNI_009722-T1
-                   PHYALNI_009723-T1
-                   PHYALNI_009724-T1
-                   PHYALNI_009727-T1
-                   PHYALNI_009728-T1
-                   PHYALNI_009740-T1
-                   PHYALNI_009811-T1
-                   PHYALNI_009812-T1
-                   PHYALNI_009816-T1
-                   PHYALNI_009866-T1
-                   PHYALNI_009875-T1
-                   PHYALNI_009931-T1
-                   PHYALNI_009937-T1
-                   PHYALNI_009942-T1
-                   PHYALNI_009945-T1
-                   PHYALNI_009955-T1
-                   PHYALNI_009956-T1
-                   PHYALNI_009959-T1
-                   PHYALNI_010091-T1
-                   PHYALNI_010092-T1
-                   PHYALNI_010151-T1
-                   PHYALNI_010248-T1
-                   PHYALNI_010428-T1
-                   PHYALNI_010468-T1
-                   PHYALNI_010469-T1
-                   PHYALNI_010481-T1
-                   PHYALNI_010482-T1
-                   PHYALNI_010484-T1
-                   PHYALNI_010586-T1
-                   PHYALNI_010623-T1
-                   PHYALNI_010624-T1
-                   PHYALNI_010732-T1
-                   PHYALNI_010733-T1
-                   PHYALNI_010804-T1
-                   PHYALNI_010809-T1
-                   PHYALNI_010864-T1
-                   PHYALNI_010879-T1
-                   PHYALNI_010927-T1
-                   PHYALNI_010953-T1
-                   PHYALNI_011053-T1
-                   PHYALNI_011065-T1
-                   PHYALNI_011104-T1
-                   PHYALNI_011108-T1
-                   PHYALNI_011120-T1
-                   PHYALNI_011156-T1
-                   PHYALNI_011157-T1
-                   PHYALNI_011165-T1
-                   PHYALNI_011248-T1
-                   PHYALNI_011249-T1
-                   PHYALNI_011258-T1
-                   PHYALNI_011259-T1
-                   PHYALNI_011267-T1
-                   PHYALNI_011268-T1
-                   PHYALNI_011270-T1
-                   PHYALNI_011281-T1
-                   PHYALNI_011320-T1
-                   PHYALNI_011327-T1
-                   PHYALNI_011341-T1
-                   PHYALNI_011365-T1
-                   PHYALNI_011386-T1
-                   PHYALNI_011390-T1
-                   PHYALNI_011423-T1
-                   PHYALNI_011443-T1
-                   PHYALNI_011465-T1
-                   PHYALNI_011484-T1
-                   PHYALNI_011577-T1
-                   PHYALNI_011586-T1
-                   PHYALNI_011704-T1
-                   PHYALNI_011807-T1
-                   PHYALNI_011957-T1
-                   PHYALNI_012032-T1
-                   PHYALNI_012112-T1
-                   PHYALNI_000016-T1
-                   PHYALNI_000248-T1
-                   PHYALNI_000261-T1
-                   PHYALNI_000282-T1
-                   PHYALNI_000301-T1
-                   PHYALNI_000338-T1
-                   PHYALNI_000339-T1
-                   PHYALNI_000347-T1
-                   PHYALNI_000363-T1
-                   PHYALNI_000366-T1
-                   PHYALNI_000372-T1
-                   PHYALNI_000374-T1
-                   PHYALNI_000378-T1
-                   PHYALNI_000389-T1
-                   PHYALNI_000450-T1
-                   PHYALNI_000522-T1
-                   PHYALNI_000552-T1
-                   PHYALNI_000564-T1
-                   PHYALNI_000788-T1
-                   PHYALNI_000803-T1
-                   PHYALNI_000809-T1
-                   PHYALNI_000834-T1
-                   PHYALNI_000836-T1
-                   PHYALNI_000880-T1
-                   PHYALNI_000895-T1
-                   PHYALNI_000897-T1
-                   PHYALNI_000956-T1
-                   PHYALNI_000977-T1
-                   PHYALNI_000985-T1
-                   PHYALNI_001154-T1
-                   PHYALNI_001157-T1
-                   PHYALNI_001182-T1
-                   PHYALNI_001365-T1
-                   PHYALNI_001367-T1
-                   PHYALNI_001553-T1
-                   PHYALNI_001554-T1
-                   PHYALNI_001562-T1
-                   PHYALNI_001660-T1
-                   PHYALNI_001704-T1
-                   PHYALNI_001807-T1
-                   PHYALNI_001817-T1
-                   PHYALNI_001818-T1
-                   PHYALNI_001831-T1
-                   PHYALNI_001847-T1
-                   PHYALNI_001864-T1
-                   PHYALNI_002185-T1
-                   PHYALNI_002248-T1
-                   PHYALNI_002276-T1
-                   PHYALNI_002344-T1
-                   PHYALNI_002353-T1
-                   PHYALNI_002355-T1
-                   PHYALNI_002438-T1
-                   PHYALNI_002446-T1
-                   PHYALNI_002447-T1
-                   PHYALNI_002449-T1
-                   PHYALNI_002452-T1
-                   PHYALNI_002453-T1
-                   PHYALNI_002558-T1
-                   PHYALNI_002585-T1
-                   PHYALNI_002783-T1
-                   PHYALNI_002787-T1
-                   PHYALNI_002810-T1
-                   PHYALNI_002830-T1
-                   PHYALNI_002843-T1
-                   PHYALNI_002994-T1
-                   PHYALNI_003044-T1
-                   PHYALNI_003052-T1
-                   PHYALNI_003148-T1
-                   PHYALNI_003160-T1
-                   PHYALNI_003264-T1
-                   PHYALNI_003287-T1
-                   PHYALNI_003327-T1
-                   PHYALNI_003396-T1
-                   PHYALNI_003398-T1
-                   PHYALNI_003426-T1
-                   PHYALNI_003427-T1
-                   PHYALNI_003428-T1
-                   PHYALNI_003442-T1
-                   PHYALNI_003443-T1
-                   PHYALNI_003444-T1
-                   PHYALNI_003532-T1
-                   PHYALNI_003537-T1
-                   PHYALNI_003538-T1
-                   PHYALNI_003540-T1
-                   PHYALNI_003643-T1
-                   PHYALNI_003738-T1
-                   PHYALNI_003765-T1
-                   PHYALNI_003881-T1
-                   PHYALNI_003882-T1
-                   PHYALNI_003894-T1
-                   PHYALNI_003926-T1
-                   PHYALNI_004030-T1
-                   PHYALNI_004066-T1
-                   PHYALNI_004067-T1
-                   PHYALNI_004178-T1
-                   PHYALNI_004179-T1
-                   PHYALNI_004181-T1
-                   PHYALNI_004182-T1
-                   PHYALNI_004183-T1
-                   PHYALNI_004188-T1
-                   PHYALNI_004361-T1
-                   PHYALNI_004386-T1
-                   PHYALNI_004452-T1
-                   PHYALNI_004502-T1
-                   PHYALNI_004507-T1
-                   PHYALNI_004587-T1
-                   PHYALNI_004593-T1
-                   PHYALNI_004598-T1
-                   PHYALNI_004781-T1
-                   PHYALNI_004828-T1
-                   PHYALNI_004995-T1
-                   PHYALNI_005027-T1
-                   PHYALNI_005062-T1
-                   PHYALNI_005209-T1
-                   PHYALNI_005212-T1
-                   PHYALNI_005219-T1
-                   PHYALNI_005411-T1
-                   PHYALNI_005412-T1
-                   PHYALNI_005413-T1
-                   PHYALNI_005432-T1
-                   PHYALNI_005435-T1
-                   PHYALNI_005465-T1
-                   PHYALNI_005554-T1
-                   PHYALNI_005557-T1
-                   PHYALNI_005558-T1
-                   PHYALNI_005583-T1
-                   PHYALNI_005640-T1
-                   PHYALNI_005641-T1
-                   PHYALNI_005642-T1
-                   PHYALNI_005648-T1
-                   PHYALNI_005653-T1
-                   PHYALNI_005654-T1
-                   PHYALNI_005655-T1
-                   PHYALNI_005861-T1
-                   PHYALNI_005862-T1
-                   PHYALNI_005863-T1
-                   PHYALNI_005864-T1
-                   PHYALNI_005938-T1
-                   PHYALNI_006093-T1
-                   PHYALNI_006098-T1
-                   PHYALNI_006100-T1
-                   PHYALNI_006111-T1
-                   PHYALNI_006116-T1
-                   PHYALNI_006117-T1
-                   PHYALNI_006135-T1
-                   PHYALNI_006144-T1
-                   PHYALNI_006163-T1
-                   PHYALNI_006174-T1
-                   PHYALNI_006189-T1
-                   PHYALNI_006272-T1
-                   PHYALNI_006273-T1
-                   PHYALNI_006284-T1
-                   PHYALNI_006353-T1
-                   PHYALNI_006427-T1
-                   PHYALNI_006446-T1
-                   PHYALNI_006448-T1
-                   PHYALNI_006469-T1
-                   PHYALNI_006539-T1
-                   PHYALNI_006576-T1
-                   PHYALNI_006577-T1
-                   PHYALNI_006624-T1
-                   PHYALNI_006625-T1
-                   PHYALNI_006763-T1
-                   PHYALNI_006786-T1
-                   PHYALNI_006793-T1
-                   PHYALNI_006810-T1
-                   PHYALNI_006904-T1
-                   PHYALNI_006919-T1
-                   PHYALNI_006920-T1
-                   PHYALNI_007038-T1
-                   PHYALNI_007045-T1
-                   PHYALNI_007165-T1
-                   PHYALNI_007386-T1
-                   PHYALNI_007559-T1
-                   PHYALNI_007618-T1
-                   PHYALNI_007668-T1
-                   PHYALNI_007669-T1
-                   PHYALNI_007677-T1
-                   PHYALNI_007686-T1
-                   PHYALNI_007728-T1
-                   PHYALNI_007729-T1
-                   PHYALNI_007762-T1
-                   PHYALNI_007772-T1
-                   PHYALNI_007789-T1
-                   PHYALNI_007790-T1
-                   PHYALNI_007791-T1
-                   PHYALNI_007812-T1
-                   PHYALNI_007995-T1
-                   PHYALNI_008007-T1
-                   PHYALNI_008010-T1
-                   PHYALNI_008014-T1
-                   PHYALNI_008041-T1
-                   PHYALNI_008048-T1
-                   PHYALNI_008051-T1
-                   PHYALNI_008098-T1
-                   PHYALNI_008178-T1
-                   PHYALNI_008179-T1
-                   PHYALNI_008180-T1
-                   PHYALNI_008255-T1
-                   PHYALNI_008268-T1
-                   PHYALNI_008348-T1
-                   PHYALNI_008371-T1
-                   PHYALNI_008438-T1
-                   PHYALNI_008482-T1
-                   PHYALNI_008598-T1
-                   PHYALNI_008599-T1
-                   PHYALNI_008603-T1
-                   PHYALNI_008604-T1
-                   PHYALNI_008614-T1
-                   PHYALNI_008638-T1
-                   PHYALNI_008691-T1
-                   PHYALNI_008696-T1
-                   PHYALNI_008697-T1
-                   PHYALNI_008698-T1
-                   PHYALNI_008772-T1
-                   PHYALNI_008781-T1
-                   PHYALNI_008782-T1
-                   PHYALNI_008793-T1
-                   PHYALNI_008795-T1
-                   PHYALNI_008811-T1
-                   PHYALNI_008855-T1
-                   PHYALNI_008869-T1
-                   PHYALNI_008876-T1
-                   PHYALNI_008877-T1
-                   PHYALNI_008989-T1
-                   PHYALNI_008990-T1
-                   PHYALNI_008996-T1
-                   PHYALNI_009088-T1
-                   PHYALNI_009124-T1
-                   PHYALNI_009172-T1
-                   PHYALNI_009173-T1
-                   PHYALNI_009187-T1
-                   PHYALNI_009188-T1
-                   PHYALNI_009190-T1
-                   PHYALNI_009191-T1
-                   PHYALNI_009192-T1
-                   PHYALNI_009248-T1
-                   PHYALNI_009249-T1
-                   PHYALNI_009318-T1
-                   PHYALNI_009337-T1
-                   PHYALNI_009338-T1
-                   PHYALNI_009358-T1
-                   PHYALNI_009400-T1
-                   PHYALNI_009401-T1
-                   PHYALNI_009402-T1
-                   PHYALNI_009404-T1
-                   PHYALNI_009405-T1
-                   PHYALNI_009413-T1
-                   PHYALNI_009560-T1
-                   PHYALNI_009584-T1
-                   PHYALNI_009590-T1
-                   PHYALNI_009604-T1
-                   PHYALNI_009605-T1
-                   PHYALNI_009609-T1
-                   PHYALNI_009631-T1
-                   PHYALNI_009722-T1
-                   PHYALNI_009723-T1
-                   PHYALNI_009724-T1
-                   PHYALNI_009727-T1
-                   PHYALNI_009728-T1
-                   PHYALNI_009740-T1
-                   PHYALNI_009811-T1
-                   PHYALNI_009812-T1
-                   PHYALNI_009816-T1
-                   PHYALNI_009875-T1
-                   PHYALNI_009931-T1
-                   PHYALNI_009937-T1
-                   PHYALNI_009942-T1
-                   PHYALNI_009945-T1
-                   PHYALNI_009955-T1
-                   PHYALNI_009956-T1
-                   PHYALNI_009959-T1
-                   PHYALNI_010151-T1
-                   PHYALNI_010466-T1
-                   PHYALNI_010468-T1
-                   PHYALNI_010469-T1
-                   PHYALNI_010481-T1
-                   PHYALNI_010482-T1
-                   PHYALNI_010483-T1
-                   PHYALNI_010484-T1
-                   PHYALNI_010540-T1
-                   PHYALNI_010623-T1
-                   PHYALNI_010624-T1
-                   PHYALNI_010732-T1
-                   PHYALNI_010733-T1
-                   PHYALNI_010804-T1
-                   PHYALNI_010809-T1
-                   PHYALNI_010879-T1
-                   PHYALNI_010927-T1
-                   PHYALNI_010953-T1
-                   PHYALNI_011053-T1
-                   PHYALNI_011056-T1
-                   PHYALNI_011065-T1
-                   PHYALNI_011097-T1
-                   PHYALNI_011104-T1
-                   PHYALNI_011108-T1
-                   PHYALNI_011120-T1
-                   PHYALNI_011123-T1
-                   PHYALNI_011156-T1
-                   PHYALNI_011157-T1
-                   PHYALNI_011165-T1
-                   PHYALNI_011248-T1
-                   PHYALNI_011249-T1
-                   PHYALNI_011258-T1
-                   PHYALNI_011259-T1
-                   PHYALNI_011267-T1
-                   PHYALNI_011270-T1
-                   PHYALNI_011281-T1
-                   PHYALNI_011320-T1
-                   PHYALNI_011327-T1
-                   PHYALNI_011341-T1
-                   PHYALNI_011423-T1
-                   PHYALNI_011443-T1
-                   PHYALNI_011465-T1
-                   PHYALNI_011466-T1
-                   PHYALNI_011484-T1
-                   PHYALNI_011558-T1
-                   PHYALNI_011577-T1
-                   PHYALNI_011586-T1
-                   PHYALNI_011702-T1
-                   PHYALNI_011704-T1
-                   PHYALNI_011807-T1
-                   PHYALNI_011866-T1
-                   PHYALNI_011957-T1
-                   PHYALNI_012010-T1
-                   PHYALNI_012032-T1
-                   PHYALNI_012112-T1
-                   PHYALNI_000016-T1
-                   PHYALNI_000088-T1
-                   PHYALNI_000248-T1
-                   PHYALNI_000261-T1
-                   PHYALNI_000301-T1
-                   PHYALNI_000338-T1
-                   PHYALNI_000339-T1
-                   PHYALNI_000347-T1
-                   PHYALNI_000362-T1
-                   PHYALNI_000363-T1
-                   PHYALNI_000366-T1
-                   PHYALNI_000372-T1
-                   PHYALNI_000374-T1
-                   PHYALNI_000378-T1
-                   PHYALNI_000389-T1
-                   PHYALNI_000449-T1
-                   PHYALNI_000450-T1
-                   PHYALNI_000522-T1
-                   PHYALNI_000564-T1
-                   PHYALNI_000788-T1
-                   PHYALNI_000803-T1
-                   PHYALNI_000809-T1
-                   PHYALNI_000834-T1
-                   PHYALNI_000835-T1
-                   PHYALNI_000836-T1
-                   PHYALNI_000895-T1
-                   PHYALNI_000897-T1
-                   PHYALNI_000956-T1
-                   PHYALNI_000977-T1
-                   PHYALNI_000985-T1
-                   PHYALNI_001150-T1
-                   PHYALNI_001154-T1
-                   PHYALNI_001365-T1
-                   PHYALNI_001553-T1
-                   PHYALNI_001554-T1
-                   PHYALNI_001562-T1
-                   PHYALNI_001660-T1
-                   PHYALNI_001662-T1
-                   PHYALNI_001704-T1
-                   PHYALNI_001817-T1
-                   PHYALNI_001818-T1
-                   PHYALNI_001831-T1
-                   PHYALNI_001847-T1
-                   PHYALNI_002185-T1
-                   PHYALNI_002248-T1
-                   PHYALNI_002344-T1
-                   PHYALNI_002353-T1
-                   PHYALNI_002355-T1
-                   PHYALNI_002438-T1
-                   PHYALNI_002449-T1
-                   PHYALNI_002452-T1
-                   PHYALNI_002453-T1
-                   PHYALNI_002558-T1
-                   PHYALNI_002585-T1
-                   PHYALNI_002810-T1
-                   PHYALNI_002830-T1
-                   PHYALNI_002843-T1
-                   PHYALNI_003006-T1
-                   PHYALNI_003052-T1
-                   PHYALNI_003148-T1
-                   PHYALNI_003160-T1
-                   PHYALNI_003287-T1
-                   PHYALNI_003327-T1
-                   PHYALNI_003396-T1
-                   PHYALNI_003398-T1
-                   PHYALNI_003426-T1
-                   PHYALNI_003427-T1
-                   PHYALNI_003442-T1
-                   PHYALNI_003502-T1
-                   PHYALNI_003514-T1
-                   PHYALNI_003537-T1
-                   PHYALNI_003538-T1
-                   PHYALNI_003540-T1
-                   PHYALNI_003716-T1
-                   PHYALNI_003738-T1
-                   PHYALNI_003765-T1
-                   PHYALNI_003881-T1
-                   PHYALNI_003894-T1
-                   PHYALNI_003926-T1
-                   PHYALNI_004066-T1
-                   PHYALNI_004067-T1
-                   PHYALNI_004178-T1
-                   PHYALNI_004179-T1
-                   PHYALNI_004181-T1
-                   PHYALNI_004182-T1
-                   PHYALNI_004183-T1
-                   PHYALNI_004386-T1
-                   PHYALNI_004502-T1
-                   PHYALNI_004507-T1
-                   PHYALNI_004584-T1
-                   PHYALNI_004587-T1
-                   PHYALNI_004593-T1
-                   PHYALNI_004598-T1
-                   PHYALNI_004612-T1
-                   PHYALNI_004781-T1
-                   PHYALNI_004828-T1
-                   PHYALNI_004995-T1
-                   PHYALNI_005027-T1
-                   PHYALNI_005062-T1
-                   PHYALNI_005212-T1
-                   PHYALNI_005411-T1
-                   PHYALNI_005412-T1
-                   PHYALNI_005413-T1
-                   PHYALNI_005432-T1
-                   PHYALNI_005435-T1
-                   PHYALNI_005465-T1
-                   PHYALNI_005554-T1
-                   PHYALNI_005556-T1
-                   PHYALNI_005557-T1
-                   PHYALNI_005558-T1
-                   PHYALNI_005640-T1
-                   PHYALNI_005641-T1
-                   PHYALNI_005642-T1
-                   PHYALNI_005648-T1
-                   PHYALNI_005653-T1
-                   PHYALNI_005654-T1
-                   PHYALNI_005861-T1
-                   PHYALNI_005862-T1
-                   PHYALNI_005864-T1
-                   PHYALNI_005938-T1
-                   PHYALNI_005940-T1
-                   PHYALNI_006093-T1
-                   PHYALNI_006098-T1
-                   PHYALNI_006100-T1
-                   PHYALNI_006111-T1
-                   PHYALNI_006116-T1
-                   PHYALNI_006117-T1
-                   PHYALNI_006163-T1
-                   PHYALNI_006174-T1
-                   PHYALNI_006189-T1
-                   PHYALNI_006272-T1
-                   PHYALNI_006273-T1
-                   PHYALNI_006284-T1
-                   PHYALNI_006351-T1
-                   PHYALNI_006353-T1
-                   PHYALNI_006448-T1
-                   PHYALNI_006469-T1
-                   PHYALNI_006479-T1
-                   PHYALNI_006576-T1
-                   PHYALNI_006577-T1
-                   PHYALNI_006624-T1
-                   PHYALNI_006625-T1
-                   PHYALNI_006763-T1
-                   PHYALNI_006786-T1
-                   PHYALNI_006793-T1
-                   PHYALNI_006810-T1
-                   PHYALNI_006880-T1
-                   PHYALNI_006881-T1
-                   PHYALNI_006904-T1
-                   PHYALNI_006919-T1
-                   PHYALNI_006920-T1
-                   PHYALNI_007038-T1
-                   PHYALNI_007045-T1
-                   PHYALNI_007386-T1
-                   PHYALNI_007559-T1
-                   PHYALNI_007618-T1
-                   PHYALNI_007668-T1
-                   PHYALNI_007669-T1
-                   PHYALNI_007677-T1
-                   PHYALNI_007686-T1
-                   PHYALNI_007762-T1
-                   PHYALNI_007789-T1
-                   PHYALNI_007790-T1
-                   PHYALNI_007791-T1
-                   PHYALNI_007812-T1
-                   PHYALNI_007995-T1
-                   PHYALNI_008007-T1
-                   PHYALNI_008010-T1
-                   PHYALNI_008014-T1
-                   PHYALNI_008041-T1
-                   PHYALNI_008048-T1
-                   PHYALNI_008051-T1
-                   PHYALNI_008179-T1
-                   PHYALNI_008180-T1
-                   PHYALNI_008255-T1
-                   PHYALNI_008268-T1
-                   PHYALNI_008348-T1
-                   PHYALNI_008371-T1
-                   PHYALNI_008438-T1
-                   PHYALNI_008603-T1
-                   PHYALNI_008604-T1
-                   PHYALNI_008614-T1
-                   PHYALNI_008638-T1
-                   PHYALNI_008691-T1
-                   PHYALNI_008696-T1
-                   PHYALNI_008698-T1
-                   PHYALNI_008772-T1
-                   PHYALNI_008781-T1
-                   PHYALNI_008782-T1
-                   PHYALNI_008793-T1
-                   PHYALNI_008795-T1
-                   PHYALNI_008811-T1
-                   PHYALNI_008855-T1
-                   PHYALNI_008869-T1
-                   PHYALNI_008876-T1
-                   PHYALNI_008877-T1
-                   PHYALNI_008912-T1
-                   PHYALNI_008989-T1
-                   PHYALNI_008990-T1
-                   PHYALNI_008996-T1
-                   PHYALNI_009088-T1
-                   PHYALNI_009172-T1
-                   PHYALNI_009173-T1
-                   PHYALNI_009187-T1
-                   PHYALNI_009188-T1
-                   PHYALNI_009190-T1
-                   PHYALNI_009191-T1
-                   PHYALNI_009192-T1
-                   PHYALNI_009248-T1
-                   PHYALNI_009249-T1
-                   PHYALNI_009318-T1
-                   PHYALNI_009338-T1
-                   PHYALNI_009358-T1
-                   PHYALNI_009401-T1
-                   PHYALNI_009404-T1
-                   PHYALNI_009405-T1
-                   PHYALNI_009413-T1
-                   PHYALNI_009560-T1
-                   PHYALNI_009584-T1
-                   PHYALNI_009590-T1
-                   PHYALNI_009604-T1
-                   PHYALNI_009722-T1
-                   PHYALNI_009723-T1
-                   PHYALNI_009724-T1
-                   PHYALNI_009727-T1
-                   PHYALNI_009728-T1
-                   PHYALNI_009740-T1
-                   PHYALNI_009811-T1
-                   PHYALNI_009812-T1
-                   PHYALNI_009816-T1
-                   PHYALNI_009866-T1
-                   PHYALNI_009875-T1
-                   PHYALNI_009931-T1
-                   PHYALNI_009937-T1
-                   PHYALNI_009942-T1
-                   PHYALNI_009945-T1
-                   PHYALNI_009955-T1
-                   PHYALNI_009959-T1
-                   PHYALNI_010092-T1
-                   PHYALNI_010151-T1
-                   PHYALNI_010248-T1
-                   PHYALNI_010468-T1
-                   PHYALNI_010469-T1
-                   PHYALNI_010481-T1
-                   PHYALNI_010482-T1
-                   PHYALNI_010484-T1
-                   PHYALNI_010623-T1
-                   PHYALNI_010624-T1
-                   PHYALNI_010732-T1
-                   PHYALNI_010733-T1
-                   PHYALNI_010804-T1
-                   PHYALNI_010809-T1
-                   PHYALNI_010864-T1
-                   PHYALNI_010879-T1
-                   PHYALNI_010927-T1
-                   PHYALNI_010953-T1
-                   PHYALNI_011053-T1
-                   PHYALNI_011065-T1
-                   PHYALNI_011104-T1
-                   PHYALNI_011108-T1
-                   PHYALNI_011120-T1
-                   PHYALNI_011156-T1
-                   PHYALNI_011157-T1
-                   PHYALNI_011165-T1
-                   PHYALNI_011248-T1
-                   PHYALNI_011249-T1
-                   PHYALNI_011258-T1
-                   PHYALNI_011259-T1
-                   PHYALNI_011267-T1
-                   PHYALNI_011268-T1
-                   PHYALNI_011270-T1
-                   PHYALNI_011281-T1
-                   PHYALNI_011320-T1
-                   PHYALNI_011327-T1
-                   PHYALNI_011341-T1
-                   PHYALNI_011423-T1
-                   PHYALNI_011443-T1
-                   PHYALNI_011465-T1
-                   PHYALNI_011484-T1
-                   PHYALNI_011577-T1
-                   PHYALNI_011586-T1
-                   PHYALNI_011704-T1
-                   PHYALNI_011807-T1
-                   PHYALNI_011957-T1
-                   PHYALNI_012032-T1
-                   PHYALNI_012112-T1
+effector_set = set("""PHYBOEH_000016-T1   
+                   PHYBOEH_000088-T1
+                   PHYBOEH_000248-T1
+                   PHYBOEH_000261-T1
+                   PHYBOEH_000301-T1
+                   PHYBOEH_000338-T1
+                   PHYBOEH_000339-T1
+                   PHYBOEH_000347-T1
+                   PHYBOEH_000362-T1
+                   PHYBOEH_000363-T1
+                   PHYBOEH_000366-T1
+                   PHYBOEH_000372-T1
+                   PHYBOEH_000374-T1
+                   PHYBOEH_000378-T1
+                   PHYBOEH_000389-T1
+                   PHYBOEH_000449-T1
+                   PHYBOEH_000450-T1
+                   PHYBOEH_000522-T1
+                   PHYBOEH_000564-T1
+                   PHYBOEH_000788-T1
+                   PHYBOEH_000803-T1
+                   PHYBOEH_000809-T1
+                   PHYBOEH_000834-T1
+                   PHYBOEH_000835-T1
+                   PHYBOEH_000836-T1
+                   PHYBOEH_000895-T1
+                   PHYBOEH_000897-T1
+                   PHYBOEH_000956-T1
+                   PHYBOEH_000977-T1
+                   PHYBOEH_000985-T1
+                   PHYBOEH_001150-T1
+                   PHYBOEH_001154-T1
+                   PHYBOEH_001365-T1
+                   PHYBOEH_001430-T1
+                   PHYBOEH_001451-T1
+                   PHYBOEH_001463-T1
+                   PHYBOEH_001553-T1
+                   PHYBOEH_001554-T1
+                   PHYBOEH_001562-T1
+                   PHYBOEH_001660-T1
+                   PHYBOEH_001662-T1
+                   PHYBOEH_001704-T1
+                   PHYBOEH_001817-T1
+                   PHYBOEH_001818-T1
+                   PHYBOEH_001831-T1
+                   PHYBOEH_001847-T1
+                   PHYBOEH_002185-T1
+                   PHYBOEH_002248-T1
+                   PHYBOEH_002344-T1
+                   PHYBOEH_002353-T1
+                   PHYBOEH_002355-T1
+                   PHYBOEH_002438-T1
+                   PHYBOEH_002449-T1
+                   PHYBOEH_002452-T1
+                   PHYBOEH_002453-T1
+                   PHYBOEH_002475-T1
+                   PHYBOEH_002558-T1
+                   PHYBOEH_002585-T1
+                   PHYBOEH_002810-T1
+                   PHYBOEH_002819-T1
+                   PHYBOEH_002830-T1
+                   PHYBOEH_002843-T1
+                   PHYBOEH_002898-T1
+                   PHYBOEH_003006-T1
+                   PHYBOEH_003052-T1
+                   PHYBOEH_003148-T1
+                   PHYBOEH_003160-T1
+                   PHYBOEH_003187-T1
+                   PHYBOEH_003287-T1
+                   PHYBOEH_003327-T1
+                   PHYBOEH_003377-T1
+                   PHYBOEH_003396-T1
+                   PHYBOEH_003398-T1
+                   PHYBOEH_003403-T1
+                   PHYBOEH_003426-T1
+                   PHYBOEH_003427-T1
+                   PHYBOEH_003442-T1
+                   PHYBOEH_003502-T1
+                   PHYBOEH_003514-T1
+                   PHYBOEH_003537-T1
+                   PHYBOEH_003538-T1
+                   PHYBOEH_003540-T1
+                   PHYBOEH_003716-T1
+                   PHYBOEH_003738-T1
+                   PHYBOEH_003765-T1
+                   PHYBOEH_003881-T1
+                   PHYBOEH_003894-T1
+                   PHYBOEH_003926-T1
+                   PHYBOEH_004001-T1
+                   PHYBOEH_004066-T1
+                   PHYBOEH_004067-T1
+                   PHYBOEH_004099-T1
+                   PHYBOEH_004178-T1
+                   PHYBOEH_004179-T1
+                   PHYBOEH_004181-T1
+                   PHYBOEH_004182-T1
+                   PHYBOEH_004183-T1
+                   PHYBOEH_004386-T1
+                   PHYBOEH_004502-T1
+                   PHYBOEH_004507-T1
+                   PHYBOEH_004584-T1
+                   PHYBOEH_004587-T1
+                   PHYBOEH_004593-T1
+                   PHYBOEH_004598-T1
+                   PHYBOEH_004612-T1
+                   PHYBOEH_004781-T1
+                   PHYBOEH_004828-T1
+                   PHYBOEH_004938-T1
+                   PHYBOEH_004995-T1
+                   PHYBOEH_005027-T1
+                   PHYBOEH_005062-T1
+                   PHYBOEH_005212-T1
+                   PHYBOEH_005229-T1
+                   PHYBOEH_005411-T1
+                   PHYBOEH_005412-T1
+                   PHYBOEH_005413-T1
+                   PHYBOEH_005432-T1
+                   PHYBOEH_005435-T1
+                   PHYBOEH_005436-T1
+                   PHYBOEH_005465-T1
+                   PHYBOEH_005554-T1
+                   PHYBOEH_005556-T1
+                   PHYBOEH_005557-T1
+                   PHYBOEH_005558-T1
+                   PHYBOEH_005640-T1
+                   PHYBOEH_005641-T1
+                   PHYBOEH_005642-T1
+                   PHYBOEH_005648-T1
+                   PHYBOEH_005653-T1
+                   PHYBOEH_005654-T1
+                   PHYBOEH_005843-T1
+                   PHYBOEH_005861-T1
+                   PHYBOEH_005862-T1
+                   PHYBOEH_005864-T1
+                   PHYBOEH_005938-T1
+                   PHYBOEH_005940-T1
+                   PHYBOEH_006093-T1
+                   PHYBOEH_006098-T1
+                   PHYBOEH_006100-T1
+                   PHYBOEH_006111-T1
+                   PHYBOEH_006116-T1
+                   PHYBOEH_006117-T1
+                   PHYBOEH_006163-T1
+                   PHYBOEH_006174-T1
+                   PHYBOEH_006189-T1
+                   PHYBOEH_006272-T1
+                   PHYBOEH_006273-T1
+                   PHYBOEH_006284-T1
+                   PHYBOEH_006338-T1
+                   PHYBOEH_006351-T1
+                   PHYBOEH_006353-T1
+                   PHYBOEH_006401-T1
+                   PHYBOEH_006448-T1
+                   PHYBOEH_006469-T1
+                   PHYBOEH_006479-T1
+                   PHYBOEH_006576-T1
+                   PHYBOEH_006577-T1
+                   PHYBOEH_006624-T1
+                   PHYBOEH_006625-T1
+                   PHYBOEH_006763-T1
+                   PHYBOEH_006786-T1
+                   PHYBOEH_006793-T1
+                   PHYBOEH_006810-T1
+                   PHYBOEH_006880-T1
+                   PHYBOEH_006881-T1
+                   PHYBOEH_006883-T1
+                   PHYBOEH_006904-T1
+                   PHYBOEH_006919-T1
+                   PHYBOEH_006920-T1
+                   PHYBOEH_007038-T1
+                   PHYBOEH_007045-T1
+                   PHYBOEH_007386-T1
+                   PHYBOEH_007559-T1
+                   PHYBOEH_007618-T1
+                   PHYBOEH_007668-T1
+                   PHYBOEH_007669-T1
+                   PHYBOEH_007677-T1
+                   PHYBOEH_007686-T1
+                   PHYBOEH_007762-T1
+                   PHYBOEH_007789-T1
+                   PHYBOEH_007790-T1
+                   PHYBOEH_007791-T1
+                   PHYBOEH_007812-T1
+                   PHYBOEH_007995-T1
+                   PHYBOEH_008007-T1
+                   PHYBOEH_008010-T1
+                   PHYBOEH_008014-T1
+                   PHYBOEH_008041-T1
+                   PHYBOEH_008048-T1
+                   PHYBOEH_008051-T1
+                   PHYBOEH_008179-T1
+                   PHYBOEH_008180-T1
+                   PHYBOEH_008255-T1
+                   PHYBOEH_008268-T1
+                   PHYBOEH_008309-T1
+                   PHYBOEH_008348-T1
+                   PHYBOEH_008371-T1
+                   PHYBOEH_008438-T1
+                   PHYBOEH_008603-T1
+                   PHYBOEH_008604-T1
+                   PHYBOEH_008614-T1
+                   PHYBOEH_008638-T1
+                   PHYBOEH_008691-T1
+                   PHYBOEH_008696-T1
+                   PHYBOEH_008698-T1
+                   PHYBOEH_008761-T1
+                   PHYBOEH_008772-T1
+                   PHYBOEH_008781-T1
+                   PHYBOEH_008782-T1
+                   PHYBOEH_008793-T1
+                   PHYBOEH_008795-T1
+                   PHYBOEH_008811-T1
+                   PHYBOEH_008830-T1
+                   PHYBOEH_008855-T1
+                   PHYBOEH_008869-T1
+                   PHYBOEH_008876-T1
+                   PHYBOEH_008877-T1
+                   PHYBOEH_008912-T1
+                   PHYBOEH_008915-T1
+                   PHYBOEH_008989-T1
+                   PHYBOEH_008990-T1
+                   PHYBOEH_008996-T1
+                   PHYBOEH_009088-T1
+                   PHYBOEH_009172-T1
+                   PHYBOEH_009173-T1
+                   PHYBOEH_009187-T1
+                   PHYBOEH_009188-T1
+                   PHYBOEH_009190-T1
+                   PHYBOEH_009191-T1
+                   PHYBOEH_009192-T1
+                   PHYBOEH_009248-T1
+                   PHYBOEH_009249-T1
+                   PHYBOEH_009318-T1
+                   PHYBOEH_009338-T1
+                   PHYBOEH_009358-T1
+                   PHYBOEH_009401-T1
+                   PHYBOEH_009404-T1
+                   PHYBOEH_009405-T1
+                   PHYBOEH_009413-T1
+                   PHYBOEH_009441-T1
+                   PHYBOEH_009560-T1
+                   PHYBOEH_009584-T1
+                   PHYBOEH_009590-T1
+                   PHYBOEH_009604-T1
+                   PHYBOEH_009722-T1
+                   PHYBOEH_009723-T1
+                   PHYBOEH_009724-T1
+                   PHYBOEH_009727-T1
+                   PHYBOEH_009728-T1
+                   PHYBOEH_009740-T1
+                   PHYBOEH_009811-T1
+                   PHYBOEH_009812-T1
+                   PHYBOEH_009816-T1
+                   PHYBOEH_009866-T1
+                   PHYBOEH_009875-T1
+                   PHYBOEH_009931-T1
+                   PHYBOEH_009937-T1
+                   PHYBOEH_009942-T1
+                   PHYBOEH_009945-T1
+                   PHYBOEH_009955-T1
+                   PHYBOEH_009956-T1
+                   PHYBOEH_009959-T1
+                   PHYBOEH_010091-T1
+                   PHYBOEH_010092-T1
+                   PHYBOEH_010151-T1
+                   PHYBOEH_010248-T1
+                   PHYBOEH_010428-T1
+                   PHYBOEH_010468-T1
+                   PHYBOEH_010469-T1
+                   PHYBOEH_010481-T1
+                   PHYBOEH_010482-T1
+                   PHYBOEH_010484-T1
+                   PHYBOEH_010586-T1
+                   PHYBOEH_010623-T1
+                   PHYBOEH_010624-T1
+                   PHYBOEH_010732-T1
+                   PHYBOEH_010733-T1
+                   PHYBOEH_010804-T1
+                   PHYBOEH_010809-T1
+                   PHYBOEH_010864-T1
+                   PHYBOEH_010879-T1
+                   PHYBOEH_010927-T1
+                   PHYBOEH_010953-T1
+                   PHYBOEH_011053-T1
+                   PHYBOEH_011065-T1
+                   PHYBOEH_011104-T1
+                   PHYBOEH_011108-T1
+                   PHYBOEH_011120-T1
+                   PHYBOEH_011156-T1
+                   PHYBOEH_011157-T1
+                   PHYBOEH_011165-T1
+                   PHYBOEH_011248-T1
+                   PHYBOEH_011249-T1
+                   PHYBOEH_011258-T1
+                   PHYBOEH_011259-T1
+                   PHYBOEH_011267-T1
+                   PHYBOEH_011268-T1
+                   PHYBOEH_011270-T1
+                   PHYBOEH_011281-T1
+                   PHYBOEH_011320-T1
+                   PHYBOEH_011327-T1
+                   PHYBOEH_011341-T1
+                   PHYBOEH_011365-T1
+                   PHYBOEH_011386-T1
+                   PHYBOEH_011390-T1
+                   PHYBOEH_011423-T1
+                   PHYBOEH_011443-T1
+                   PHYBOEH_011465-T1
+                   PHYBOEH_011484-T1
+                   PHYBOEH_011577-T1
+                   PHYBOEH_011586-T1
+                   PHYBOEH_011704-T1
+                   PHYBOEH_011807-T1
+                   PHYBOEH_011957-T1
+                   PHYBOEH_012032-T1
+                   PHYBOEH_012112-T1
+                   PHYBOEH_000016-T1
+                   PHYBOEH_000248-T1
+                   PHYBOEH_000261-T1
+                   PHYBOEH_000282-T1
+                   PHYBOEH_000301-T1
+                   PHYBOEH_000338-T1
+                   PHYBOEH_000339-T1
+                   PHYBOEH_000347-T1
+                   PHYBOEH_000363-T1
+                   PHYBOEH_000366-T1
+                   PHYBOEH_000372-T1
+                   PHYBOEH_000374-T1
+                   PHYBOEH_000378-T1
+                   PHYBOEH_000389-T1
+                   PHYBOEH_000450-T1
+                   PHYBOEH_000522-T1
+                   PHYBOEH_000552-T1
+                   PHYBOEH_000564-T1
+                   PHYBOEH_000788-T1
+                   PHYBOEH_000803-T1
+                   PHYBOEH_000809-T1
+                   PHYBOEH_000834-T1
+                   PHYBOEH_000836-T1
+                   PHYBOEH_000880-T1
+                   PHYBOEH_000895-T1
+                   PHYBOEH_000897-T1
+                   PHYBOEH_000956-T1
+                   PHYBOEH_000977-T1
+                   PHYBOEH_000985-T1
+                   PHYBOEH_001154-T1
+                   PHYBOEH_001157-T1
+                   PHYBOEH_001182-T1
+                   PHYBOEH_001365-T1
+                   PHYBOEH_001367-T1
+                   PHYBOEH_001553-T1
+                   PHYBOEH_001554-T1
+                   PHYBOEH_001562-T1
+                   PHYBOEH_001660-T1
+                   PHYBOEH_001704-T1
+                   PHYBOEH_001807-T1
+                   PHYBOEH_001817-T1
+                   PHYBOEH_001818-T1
+                   PHYBOEH_001831-T1
+                   PHYBOEH_001847-T1
+                   PHYBOEH_001864-T1
+                   PHYBOEH_002185-T1
+                   PHYBOEH_002248-T1
+                   PHYBOEH_002276-T1
+                   PHYBOEH_002344-T1
+                   PHYBOEH_002353-T1
+                   PHYBOEH_002355-T1
+                   PHYBOEH_002438-T1
+                   PHYBOEH_002446-T1
+                   PHYBOEH_002447-T1
+                   PHYBOEH_002449-T1
+                   PHYBOEH_002452-T1
+                   PHYBOEH_002453-T1
+                   PHYBOEH_002558-T1
+                   PHYBOEH_002585-T1
+                   PHYBOEH_002783-T1
+                   PHYBOEH_002787-T1
+                   PHYBOEH_002810-T1
+                   PHYBOEH_002830-T1
+                   PHYBOEH_002843-T1
+                   PHYBOEH_002994-T1
+                   PHYBOEH_003044-T1
+                   PHYBOEH_003052-T1
+                   PHYBOEH_003148-T1
+                   PHYBOEH_003160-T1
+                   PHYBOEH_003264-T1
+                   PHYBOEH_003287-T1
+                   PHYBOEH_003327-T1
+                   PHYBOEH_003396-T1
+                   PHYBOEH_003398-T1
+                   PHYBOEH_003426-T1
+                   PHYBOEH_003427-T1
+                   PHYBOEH_003428-T1
+                   PHYBOEH_003442-T1
+                   PHYBOEH_003443-T1
+                   PHYBOEH_003444-T1
+                   PHYBOEH_003532-T1
+                   PHYBOEH_003537-T1
+                   PHYBOEH_003538-T1
+                   PHYBOEH_003540-T1
+                   PHYBOEH_003643-T1
+                   PHYBOEH_003738-T1
+                   PHYBOEH_003765-T1
+                   PHYBOEH_003881-T1
+                   PHYBOEH_003882-T1
+                   PHYBOEH_003894-T1
+                   PHYBOEH_003926-T1
+                   PHYBOEH_004030-T1
+                   PHYBOEH_004066-T1
+                   PHYBOEH_004067-T1
+                   PHYBOEH_004178-T1
+                   PHYBOEH_004179-T1
+                   PHYBOEH_004181-T1
+                   PHYBOEH_004182-T1
+                   PHYBOEH_004183-T1
+                   PHYBOEH_004188-T1
+                   PHYBOEH_004361-T1
+                   PHYBOEH_004386-T1
+                   PHYBOEH_004452-T1
+                   PHYBOEH_004502-T1
+                   PHYBOEH_004507-T1
+                   PHYBOEH_004587-T1
+                   PHYBOEH_004593-T1
+                   PHYBOEH_004598-T1
+                   PHYBOEH_004781-T1
+                   PHYBOEH_004828-T1
+                   PHYBOEH_004995-T1
+                   PHYBOEH_005027-T1
+                   PHYBOEH_005062-T1
+                   PHYBOEH_005209-T1
+                   PHYBOEH_005212-T1
+                   PHYBOEH_005219-T1
+                   PHYBOEH_005411-T1
+                   PHYBOEH_005412-T1
+                   PHYBOEH_005413-T1
+                   PHYBOEH_005432-T1
+                   PHYBOEH_005435-T1
+                   PHYBOEH_005465-T1
+                   PHYBOEH_005554-T1
+                   PHYBOEH_005557-T1
+                   PHYBOEH_005558-T1
+                   PHYBOEH_005583-T1
+                   PHYBOEH_005640-T1
+                   PHYBOEH_005641-T1
+                   PHYBOEH_005642-T1
+                   PHYBOEH_005648-T1
+                   PHYBOEH_005653-T1
+                   PHYBOEH_005654-T1
+                   PHYBOEH_005655-T1
+                   PHYBOEH_005861-T1
+                   PHYBOEH_005862-T1
+                   PHYBOEH_005863-T1
+                   PHYBOEH_005864-T1
+                   PHYBOEH_005938-T1
+                   PHYBOEH_006093-T1
+                   PHYBOEH_006098-T1
+                   PHYBOEH_006100-T1
+                   PHYBOEH_006111-T1
+                   PHYBOEH_006116-T1
+                   PHYBOEH_006117-T1
+                   PHYBOEH_006135-T1
+                   PHYBOEH_006144-T1
+                   PHYBOEH_006163-T1
+                   PHYBOEH_006174-T1
+                   PHYBOEH_006189-T1
+                   PHYBOEH_006272-T1
+                   PHYBOEH_006273-T1
+                   PHYBOEH_006284-T1
+                   PHYBOEH_006353-T1
+                   PHYBOEH_006427-T1
+                   PHYBOEH_006446-T1
+                   PHYBOEH_006448-T1
+                   PHYBOEH_006469-T1
+                   PHYBOEH_006539-T1
+                   PHYBOEH_006576-T1
+                   PHYBOEH_006577-T1
+                   PHYBOEH_006624-T1
+                   PHYBOEH_006625-T1
+                   PHYBOEH_006763-T1
+                   PHYBOEH_006786-T1
+                   PHYBOEH_006793-T1
+                   PHYBOEH_006810-T1
+                   PHYBOEH_006904-T1
+                   PHYBOEH_006919-T1
+                   PHYBOEH_006920-T1
+                   PHYBOEH_007038-T1
+                   PHYBOEH_007045-T1
+                   PHYBOEH_007165-T1
+                   PHYBOEH_007386-T1
+                   PHYBOEH_007559-T1
+                   PHYBOEH_007618-T1
+                   PHYBOEH_007668-T1
+                   PHYBOEH_007669-T1
+                   PHYBOEH_007677-T1
+                   PHYBOEH_007686-T1
+                   PHYBOEH_007728-T1
+                   PHYBOEH_007729-T1
+                   PHYBOEH_007762-T1
+                   PHYBOEH_007772-T1
+                   PHYBOEH_007789-T1
+                   PHYBOEH_007790-T1
+                   PHYBOEH_007791-T1
+                   PHYBOEH_007812-T1
+                   PHYBOEH_007995-T1
+                   PHYBOEH_008007-T1
+                   PHYBOEH_008010-T1
+                   PHYBOEH_008014-T1
+                   PHYBOEH_008041-T1
+                   PHYBOEH_008048-T1
+                   PHYBOEH_008051-T1
+                   PHYBOEH_008098-T1
+                   PHYBOEH_008178-T1
+                   PHYBOEH_008179-T1
+                   PHYBOEH_008180-T1
+                   PHYBOEH_008255-T1
+                   PHYBOEH_008268-T1
+                   PHYBOEH_008348-T1
+                   PHYBOEH_008371-T1
+                   PHYBOEH_008438-T1
+                   PHYBOEH_008482-T1
+                   PHYBOEH_008598-T1
+                   PHYBOEH_008599-T1
+                   PHYBOEH_008603-T1
+                   PHYBOEH_008604-T1
+                   PHYBOEH_008614-T1
+                   PHYBOEH_008638-T1
+                   PHYBOEH_008691-T1
+                   PHYBOEH_008696-T1
+                   PHYBOEH_008697-T1
+                   PHYBOEH_008698-T1
+                   PHYBOEH_008772-T1
+                   PHYBOEH_008781-T1
+                   PHYBOEH_008782-T1
+                   PHYBOEH_008793-T1
+                   PHYBOEH_008795-T1
+                   PHYBOEH_008811-T1
+                   PHYBOEH_008855-T1
+                   PHYBOEH_008869-T1
+                   PHYBOEH_008876-T1
+                   PHYBOEH_008877-T1
+                   PHYBOEH_008989-T1
+                   PHYBOEH_008990-T1
+                   PHYBOEH_008996-T1
+                   PHYBOEH_009088-T1
+                   PHYBOEH_009124-T1
+                   PHYBOEH_009172-T1
+                   PHYBOEH_009173-T1
+                   PHYBOEH_009187-T1
+                   PHYBOEH_009188-T1
+                   PHYBOEH_009190-T1
+                   PHYBOEH_009191-T1
+                   PHYBOEH_009192-T1
+                   PHYBOEH_009248-T1
+                   PHYBOEH_009249-T1
+                   PHYBOEH_009318-T1
+                   PHYBOEH_009337-T1
+                   PHYBOEH_009338-T1
+                   PHYBOEH_009358-T1
+                   PHYBOEH_009400-T1
+                   PHYBOEH_009401-T1
+                   PHYBOEH_009402-T1
+                   PHYBOEH_009404-T1
+                   PHYBOEH_009405-T1
+                   PHYBOEH_009413-T1
+                   PHYBOEH_009560-T1
+                   PHYBOEH_009584-T1
+                   PHYBOEH_009590-T1
+                   PHYBOEH_009604-T1
+                   PHYBOEH_009605-T1
+                   PHYBOEH_009609-T1
+                   PHYBOEH_009631-T1
+                   PHYBOEH_009722-T1
+                   PHYBOEH_009723-T1
+                   PHYBOEH_009724-T1
+                   PHYBOEH_009727-T1
+                   PHYBOEH_009728-T1
+                   PHYBOEH_009740-T1
+                   PHYBOEH_009811-T1
+                   PHYBOEH_009812-T1
+                   PHYBOEH_009816-T1
+                   PHYBOEH_009875-T1
+                   PHYBOEH_009931-T1
+                   PHYBOEH_009937-T1
+                   PHYBOEH_009942-T1
+                   PHYBOEH_009945-T1
+                   PHYBOEH_009955-T1
+                   PHYBOEH_009956-T1
+                   PHYBOEH_009959-T1
+                   PHYBOEH_010151-T1
+                   PHYBOEH_010466-T1
+                   PHYBOEH_010468-T1
+                   PHYBOEH_010469-T1
+                   PHYBOEH_010481-T1
+                   PHYBOEH_010482-T1
+                   PHYBOEH_010483-T1
+                   PHYBOEH_010484-T1
+                   PHYBOEH_010540-T1
+                   PHYBOEH_010623-T1
+                   PHYBOEH_010624-T1
+                   PHYBOEH_010732-T1
+                   PHYBOEH_010733-T1
+                   PHYBOEH_010804-T1
+                   PHYBOEH_010809-T1
+                   PHYBOEH_010879-T1
+                   PHYBOEH_010927-T1
+                   PHYBOEH_010953-T1
+                   PHYBOEH_011053-T1
+                   PHYBOEH_011056-T1
+                   PHYBOEH_011065-T1
+                   PHYBOEH_011097-T1
+                   PHYBOEH_011104-T1
+                   PHYBOEH_011108-T1
+                   PHYBOEH_011120-T1
+                   PHYBOEH_011123-T1
+                   PHYBOEH_011156-T1
+                   PHYBOEH_011157-T1
+                   PHYBOEH_011165-T1
+                   PHYBOEH_011248-T1
+                   PHYBOEH_011249-T1
+                   PHYBOEH_011258-T1
+                   PHYBOEH_011259-T1
+                   PHYBOEH_011267-T1
+                   PHYBOEH_011270-T1
+                   PHYBOEH_011281-T1
+                   PHYBOEH_011320-T1
+                   PHYBOEH_011327-T1
+                   PHYBOEH_011341-T1
+                   PHYBOEH_011423-T1
+                   PHYBOEH_011443-T1
+                   PHYBOEH_011465-T1
+                   PHYBOEH_011466-T1
+                   PHYBOEH_011484-T1
+                   PHYBOEH_011558-T1
+                   PHYBOEH_011577-T1
+                   PHYBOEH_011586-T1
+                   PHYBOEH_011702-T1
+                   PHYBOEH_011704-T1
+                   PHYBOEH_011807-T1
+                   PHYBOEH_011866-T1
+                   PHYBOEH_011957-T1
+                   PHYBOEH_012010-T1
+                   PHYBOEH_012032-T1
+                   PHYBOEH_012112-T1
+                   PHYBOEH_000016-T1
+                   PHYBOEH_000088-T1
+                   PHYBOEH_000248-T1
+                   PHYBOEH_000261-T1
+                   PHYBOEH_000301-T1
+                   PHYBOEH_000338-T1
+                   PHYBOEH_000339-T1
+                   PHYBOEH_000347-T1
+                   PHYBOEH_000362-T1
+                   PHYBOEH_000363-T1
+                   PHYBOEH_000366-T1
+                   PHYBOEH_000372-T1
+                   PHYBOEH_000374-T1
+                   PHYBOEH_000378-T1
+                   PHYBOEH_000389-T1
+                   PHYBOEH_000449-T1
+                   PHYBOEH_000450-T1
+                   PHYBOEH_000522-T1
+                   PHYBOEH_000564-T1
+                   PHYBOEH_000788-T1
+                   PHYBOEH_000803-T1
+                   PHYBOEH_000809-T1
+                   PHYBOEH_000834-T1
+                   PHYBOEH_000835-T1
+                   PHYBOEH_000836-T1
+                   PHYBOEH_000895-T1
+                   PHYBOEH_000897-T1
+                   PHYBOEH_000956-T1
+                   PHYBOEH_000977-T1
+                   PHYBOEH_000985-T1
+                   PHYBOEH_001150-T1
+                   PHYBOEH_001154-T1
+                   PHYBOEH_001365-T1
+                   PHYBOEH_001553-T1
+                   PHYBOEH_001554-T1
+                   PHYBOEH_001562-T1
+                   PHYBOEH_001660-T1
+                   PHYBOEH_001662-T1
+                   PHYBOEH_001704-T1
+                   PHYBOEH_001817-T1
+                   PHYBOEH_001818-T1
+                   PHYBOEH_001831-T1
+                   PHYBOEH_001847-T1
+                   PHYBOEH_002185-T1
+                   PHYBOEH_002248-T1
+                   PHYBOEH_002344-T1
+                   PHYBOEH_002353-T1
+                   PHYBOEH_002355-T1
+                   PHYBOEH_002438-T1
+                   PHYBOEH_002449-T1
+                   PHYBOEH_002452-T1
+                   PHYBOEH_002453-T1
+                   PHYBOEH_002558-T1
+                   PHYBOEH_002585-T1
+                   PHYBOEH_002810-T1
+                   PHYBOEH_002830-T1
+                   PHYBOEH_002843-T1
+                   PHYBOEH_003006-T1
+                   PHYBOEH_003052-T1
+                   PHYBOEH_003148-T1
+                   PHYBOEH_003160-T1
+                   PHYBOEH_003287-T1
+                   PHYBOEH_003327-T1
+                   PHYBOEH_003396-T1
+                   PHYBOEH_003398-T1
+                   PHYBOEH_003426-T1
+                   PHYBOEH_003427-T1
+                   PHYBOEH_003442-T1
+                   PHYBOEH_003502-T1
+                   PHYBOEH_003514-T1
+                   PHYBOEH_003537-T1
+                   PHYBOEH_003538-T1
+                   PHYBOEH_003540-T1
+                   PHYBOEH_003716-T1
+                   PHYBOEH_003738-T1
+                   PHYBOEH_003765-T1
+                   PHYBOEH_003881-T1
+                   PHYBOEH_003894-T1
+                   PHYBOEH_003926-T1
+                   PHYBOEH_004066-T1
+                   PHYBOEH_004067-T1
+                   PHYBOEH_004178-T1
+                   PHYBOEH_004179-T1
+                   PHYBOEH_004181-T1
+                   PHYBOEH_004182-T1
+                   PHYBOEH_004183-T1
+                   PHYBOEH_004386-T1
+                   PHYBOEH_004502-T1
+                   PHYBOEH_004507-T1
+                   PHYBOEH_004584-T1
+                   PHYBOEH_004587-T1
+                   PHYBOEH_004593-T1
+                   PHYBOEH_004598-T1
+                   PHYBOEH_004612-T1
+                   PHYBOEH_004781-T1
+                   PHYBOEH_004828-T1
+                   PHYBOEH_004995-T1
+                   PHYBOEH_005027-T1
+                   PHYBOEH_005062-T1
+                   PHYBOEH_005212-T1
+                   PHYBOEH_005411-T1
+                   PHYBOEH_005412-T1
+                   PHYBOEH_005413-T1
+                   PHYBOEH_005432-T1
+                   PHYBOEH_005435-T1
+                   PHYBOEH_005465-T1
+                   PHYBOEH_005554-T1
+                   PHYBOEH_005556-T1
+                   PHYBOEH_005557-T1
+                   PHYBOEH_005558-T1
+                   PHYBOEH_005640-T1
+                   PHYBOEH_005641-T1
+                   PHYBOEH_005642-T1
+                   PHYBOEH_005648-T1
+                   PHYBOEH_005653-T1
+                   PHYBOEH_005654-T1
+                   PHYBOEH_005861-T1
+                   PHYBOEH_005862-T1
+                   PHYBOEH_005864-T1
+                   PHYBOEH_005938-T1
+                   PHYBOEH_005940-T1
+                   PHYBOEH_006093-T1
+                   PHYBOEH_006098-T1
+                   PHYBOEH_006100-T1
+                   PHYBOEH_006111-T1
+                   PHYBOEH_006116-T1
+                   PHYBOEH_006117-T1
+                   PHYBOEH_006163-T1
+                   PHYBOEH_006174-T1
+                   PHYBOEH_006189-T1
+                   PHYBOEH_006272-T1
+                   PHYBOEH_006273-T1
+                   PHYBOEH_006284-T1
+                   PHYBOEH_006351-T1
+                   PHYBOEH_006353-T1
+                   PHYBOEH_006448-T1
+                   PHYBOEH_006469-T1
+                   PHYBOEH_006479-T1
+                   PHYBOEH_006576-T1
+                   PHYBOEH_006577-T1
+                   PHYBOEH_006624-T1
+                   PHYBOEH_006625-T1
+                   PHYBOEH_006763-T1
+                   PHYBOEH_006786-T1
+                   PHYBOEH_006793-T1
+                   PHYBOEH_006810-T1
+                   PHYBOEH_006880-T1
+                   PHYBOEH_006881-T1
+                   PHYBOEH_006904-T1
+                   PHYBOEH_006919-T1
+                   PHYBOEH_006920-T1
+                   PHYBOEH_007038-T1
+                   PHYBOEH_007045-T1
+                   PHYBOEH_007386-T1
+                   PHYBOEH_007559-T1
+                   PHYBOEH_007618-T1
+                   PHYBOEH_007668-T1
+                   PHYBOEH_007669-T1
+                   PHYBOEH_007677-T1
+                   PHYBOEH_007686-T1
+                   PHYBOEH_007762-T1
+                   PHYBOEH_007789-T1
+                   PHYBOEH_007790-T1
+                   PHYBOEH_007791-T1
+                   PHYBOEH_007812-T1
+                   PHYBOEH_007995-T1
+                   PHYBOEH_008007-T1
+                   PHYBOEH_008010-T1
+                   PHYBOEH_008014-T1
+                   PHYBOEH_008041-T1
+                   PHYBOEH_008048-T1
+                   PHYBOEH_008051-T1
+                   PHYBOEH_008179-T1
+                   PHYBOEH_008180-T1
+                   PHYBOEH_008255-T1
+                   PHYBOEH_008268-T1
+                   PHYBOEH_008348-T1
+                   PHYBOEH_008371-T1
+                   PHYBOEH_008438-T1
+                   PHYBOEH_008603-T1
+                   PHYBOEH_008604-T1
+                   PHYBOEH_008614-T1
+                   PHYBOEH_008638-T1
+                   PHYBOEH_008691-T1
+                   PHYBOEH_008696-T1
+                   PHYBOEH_008698-T1
+                   PHYBOEH_008772-T1
+                   PHYBOEH_008781-T1
+                   PHYBOEH_008782-T1
+                   PHYBOEH_008793-T1
+                   PHYBOEH_008795-T1
+                   PHYBOEH_008811-T1
+                   PHYBOEH_008855-T1
+                   PHYBOEH_008869-T1
+                   PHYBOEH_008876-T1
+                   PHYBOEH_008877-T1
+                   PHYBOEH_008912-T1
+                   PHYBOEH_008989-T1
+                   PHYBOEH_008990-T1
+                   PHYBOEH_008996-T1
+                   PHYBOEH_009088-T1
+                   PHYBOEH_009172-T1
+                   PHYBOEH_009173-T1
+                   PHYBOEH_009187-T1
+                   PHYBOEH_009188-T1
+                   PHYBOEH_009190-T1
+                   PHYBOEH_009191-T1
+                   PHYBOEH_009192-T1
+                   PHYBOEH_009248-T1
+                   PHYBOEH_009249-T1
+                   PHYBOEH_009318-T1
+                   PHYBOEH_009338-T1
+                   PHYBOEH_009358-T1
+                   PHYBOEH_009401-T1
+                   PHYBOEH_009404-T1
+                   PHYBOEH_009405-T1
+                   PHYBOEH_009413-T1
+                   PHYBOEH_009560-T1
+                   PHYBOEH_009584-T1
+                   PHYBOEH_009590-T1
+                   PHYBOEH_009604-T1
+                   PHYBOEH_009722-T1
+                   PHYBOEH_009723-T1
+                   PHYBOEH_009724-T1
+                   PHYBOEH_009727-T1
+                   PHYBOEH_009728-T1
+                   PHYBOEH_009740-T1
+                   PHYBOEH_009811-T1
+                   PHYBOEH_009812-T1
+                   PHYBOEH_009816-T1
+                   PHYBOEH_009866-T1
+                   PHYBOEH_009875-T1
+                   PHYBOEH_009931-T1
+                   PHYBOEH_009937-T1
+                   PHYBOEH_009942-T1
+                   PHYBOEH_009945-T1
+                   PHYBOEH_009955-T1
+                   PHYBOEH_009959-T1
+                   PHYBOEH_010092-T1
+                   PHYBOEH_010151-T1
+                   PHYBOEH_010248-T1
+                   PHYBOEH_010468-T1
+                   PHYBOEH_010469-T1
+                   PHYBOEH_010481-T1
+                   PHYBOEH_010482-T1
+                   PHYBOEH_010484-T1
+                   PHYBOEH_010623-T1
+                   PHYBOEH_010624-T1
+                   PHYBOEH_010732-T1
+                   PHYBOEH_010733-T1
+                   PHYBOEH_010804-T1
+                   PHYBOEH_010809-T1
+                   PHYBOEH_010864-T1
+                   PHYBOEH_010879-T1
+                   PHYBOEH_010927-T1
+                   PHYBOEH_010953-T1
+                   PHYBOEH_011053-T1
+                   PHYBOEH_011065-T1
+                   PHYBOEH_011104-T1
+                   PHYBOEH_011108-T1
+                   PHYBOEH_011120-T1
+                   PHYBOEH_011156-T1
+                   PHYBOEH_011157-T1
+                   PHYBOEH_011165-T1
+                   PHYBOEH_011248-T1
+                   PHYBOEH_011249-T1
+                   PHYBOEH_011258-T1
+                   PHYBOEH_011259-T1
+                   PHYBOEH_011267-T1
+                   PHYBOEH_011268-T1
+                   PHYBOEH_011270-T1
+                   PHYBOEH_011281-T1
+                   PHYBOEH_011320-T1
+                   PHYBOEH_011327-T1
+                   PHYBOEH_011341-T1
+                   PHYBOEH_011423-T1
+                   PHYBOEH_011443-T1
+                   PHYBOEH_011465-T1
+                   PHYBOEH_011484-T1
+                   PHYBOEH_011577-T1
+                   PHYBOEH_011586-T1
+                   PHYBOEH_011704-T1
+                   PHYBOEH_011807-T1
+                   PHYBOEH_011957-T1
+                   PHYBOEH_012032-T1
+                   PHYBOEH_012112-T1
                    PHYGONAP_000259-T1
                    PHYGONAP_000352-T1
                    PHYGONAP_000353-T1
