@@ -1,0 +1,31 @@
+parsed genome node DAGs: 35881
+sequence regions: 11615 (total length: 40139473)
+multi-features: 12427
+genes: 24266
+protein-coding genes: 23912
+mRNAs: 23912
+protein-coding mRNAs: 23912
+exons: 52577
+CDSs: 52223
+introns: 56622
+tRNAs: 354
+exon number distribution:
+1: 11839 (prob=0.4879,cumulative=0.4879)
+2: 5877 (prob=0.2422,cumulative=0.7301)
+3: 2760 (prob=0.1137,cumulative=0.8438)
+4: 1556 (prob=0.0641,cumulative=0.9079)
+5: 919 (prob=0.0379,cumulative=0.9458)
+6: 518 (prob=0.0213,cumulative=0.9672)
+7: 316 (prob=0.0130,cumulative=0.9802)
+8: 202 (prob=0.0083,cumulative=0.9885)
+9: 104 (prob=0.0043,cumulative=0.9928)
+10: 63 (prob=0.0026,cumulative=0.9954)
+11: 47 (prob=0.0019,cumulative=0.9973)
+12: 32 (prob=0.0013,cumulative=0.9986)
+13: 10 (prob=0.0004,cumulative=0.9991)
+14: 10 (prob=0.0004,cumulative=0.9995)
+15: 5 (prob=0.0002,cumulative=0.9997)
+16: 5 (prob=0.0002,cumulative=0.9999)
+17: 1 (prob=0.0000,cumulative=0.9999)
+19: 1 (prob=0.0000,cumulative=1.0000)
+21: 1 (prob=0.0000,cumulative=1.0000)

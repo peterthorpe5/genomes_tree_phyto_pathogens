@@ -1,0 +1,12 @@
+parsed genome node DAGs: 35881
+sequence regions: 11615 (total length: 40139473)
+multi-features: 12427
+genes: 24266
+protein-coding genes: 23912
+mRNAs: 23912
+protein-coding mRNAs: 23912
+exons: 52577
+CDSs: 52223
+introns: 56622
+tRNAs: 354
+gene score distribution:
